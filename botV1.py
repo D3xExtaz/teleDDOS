@@ -104,7 +104,7 @@ def http_range_dos(target_url, target_port):
         except:
             pass
 
-bot_token = "6561702537:AAEowCE9gGSwMVXhZjSZ9SlNx1h5c_0ImJI"
+bot_token = "6891847784:AAFDEinLb4Jfm_MYg0itG5YzkL2RnY8XFp0"
 api_id = "29073206"
 api_hash = "9790d8e2dac10c7036d37c17de67618f"
 
